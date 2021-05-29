@@ -1,2 +1,5 @@
 # Rust-Tic-Tac-Toe
-Tic Tac Toe coded in rust 
+This is one of my first rust projects, I am well aware that my win condition testing is totally ineffeicent with the else if blocks. But yeah its tic tac toe in rust, whats not to like?
+
+
+
